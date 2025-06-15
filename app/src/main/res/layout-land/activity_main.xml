@@ -176,7 +176,7 @@
             android:layout_column="3"
             android:layout_columnWeight="1"
             android:background="@color/background_color"
-            android:text="*"
+            android:text="x"
             android:textColor="@color/orange"
             android:textSize="25sp" />
 
